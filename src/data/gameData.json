@@ -1,27 +1,257 @@
 [
     {
-        "name": "test1",
-        "platform": "PC",
-        "progress": "100%"
+        "name": "Baldur's Gate 3",
+        "platform": "Xbox",
+        "progress": "Completed Prologue"
     },
     {
-        "name": "test2",
+        "name": "Batman Arkham Asylum",
         "platform": "PC",
-        "progress": "100%"
+        "progress": "Not Started"
     },
     {
-        "name": "test3",
+        "name": "Batman Arkham City",
         "platform": "PC",
-        "progress": "100%"
+        "progress": "Not Started"
     },
     {
-        "name": "test4",
+        "name": "Batman Arkham Knight",
         "platform": "PC",
-        "progress": "100%"
+        "progress": "Not Started"
     },
     {
-        "name": "test5",
+        "name": "Catherine Classic",
         "platform": "PC",
-        "progress": "100%"
+        "progress": "Not Started"
+    },
+    {
+        "name": "Coffee Talk",
+        "platform": "PC",
+        "progress": "Partway Through"
+    },
+    {
+        "name": "Coffee Talk 2",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Dead Island 2",
+        "platform": "Xbox",
+        "progress": "Partway Through"
+    },
+    {
+        "name": "Demon's Souls",
+        "platform": "PS5",
+        "progress": "Completed, but trying to get Platinum Trophy"
+    },
+    {
+        "name": "Detroit: Become Human",
+        "platform": "PS5",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Ghost Recon Wildlands",
+        "platform": "PC",
+        "progress": "Completed Prologue"
+    },
+    {
+        "name": "Gris",
+        "platform": "PC",
+        "progress": "Partway Through"
+    },
+    {
+        "name": "Haven",
+        "platform": "Xbox",
+        "progress": "Partway Through"
+    },
+    {
+        "name": "Life is Strange",
+        "platform": "PC & PS5",
+        "progress": "PC (Done), PS5 (On Ep: 2)"
+    },
+    {
+        "name": "Life is Strange: Before the Storm",
+        "platform": "PC & PS5",
+        "progress": "Not Started on Either PC or PS5"
+    },
+    {
+        "name": "Life is Strange 2",
+        "platform": "PC & PS5",
+        "progress": "Not Started on Either PC or PS5"
+    },
+    {
+        "name": "Life is Strange: True Colors",
+        "platform": "PC & PS5",
+        "progress": "PS5 (Done), PC Not Started"
+    },
+    {
+        "name": "Life is Strange Remastered",
+        "platform": "PC & PS5",
+        "progress": "Not Started on Either PC or PS5"
+    },
+    {
+        "name": "Life is Strange: Before the Storm Remastered",
+        "platform": "PC & PS5",
+        "progress": "Not Started on Either PC or PS5"
+    },
+    {
+        "name": "Mass Effect Legendary Edition",
+        "platform": "Xbox",
+        "progress": "Completed 1 & 2, Need to Complete 3"
+    },
+    {
+        "name": "Nier Automata",
+        "platform": "PC",
+        "progress": "On 9S Playthrough"
+    },
+    {
+        "name": "Nier Replicant",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Persona 3 Reload (New Game +)",
+        "platform": "PC",
+        "progress": "Completed Prologue"
+    },
+    {
+        "name": "Persona 4 Golden",
+        "platform": "PC",
+        "progress": "Currently in Progress..."
+    },
+    {
+        "name": "Persona 5 Royal (New Game +)",
+        "platform": "PC",
+        "progress": "Currently in Progress..."
+    },
+    {
+        "name": "Persona 5 Tactica",
+        "platform": "Xbox",
+        "progress": "Completed Prologue"
+    },
+    {
+        "name": "Resident Evil",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Resident Evil 0",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Resident Evil 2",
+        "platform": "PC",
+        "progress": "Prologue Completed"
+    },
+    {
+        "name": "Resident Evil 3",
+        "platform": "PC",
+        "progress": "Done"
+    },
+    {
+        "name": "Resident Evil 4",
+        "platform": "PC",
+        "progress": "Done"
+    },
+    {
+        "name": "Resident Evil 4 (2005)",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Resident Evil 5",
+        "platform": "PC",
+        "progress": "On Sheva Playthrough"
+    },
+    {
+        "name": "Resident Evil 6",
+        "platform": "PC",
+        "progress": "Completed Sherry and Jake Playthrough"
+    },
+    {
+        "name": "Resident Evil 7 Biohazard",
+        "platform": "PC",
+        "progress": "Completed Prologue"
+    },
+    {
+        "name": "Resident Evil 8 Village",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Resident Evil Revelations",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Resident Evil Revelations 2",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Saints Row (2022)",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Saints Row IV",
+        "platform": "PC",
+        "progress": "Completed Prologue"
+    },
+    {
+        "name": "Spiderman 1",
+        "platform": "PS5",
+        "progress": "Currently in Progress..."
+    },
+    {
+        "name": "Spiderman: Miles Morales",
+        "platform": "PS5",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Spiderman 2",
+        "platform": "PS5",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Stellar Blade",
+        "platform": "PS5",
+        "progress": "Currently in Progress..."
+    },
+    {
+        "name": "Suicide Squad: Kill The Justice League",
+        "platform": "Xbox",
+        "progress": "Completed Prologue"
+    },
+    {
+        "name": "Tekken 8",
+        "platform": "PC",
+        "progress": "Main Story Complete, Need to finish character stories"
+    },
+    {
+        "name": "Tell Me Why",
+        "platform": "PC",
+        "progress": "Not Started"
+    },
+    {
+        "name": "The Witcher 3",
+        "platform": "Xbox",
+        "progress": "Completed Prologue"
+    },
+    {
+        "name": "The Last of Us",
+        "platform": "PS5",
+        "progress": "Not Started"
+    },
+    {
+        "name": "The Last of Us 2",
+        "platform": "PS5",
+        "progress": "Not Started"
+    },
+    {
+        "name": "Until Dawn",
+        "platform": "PS5",
+        "progress": "Not Started"
     }
 ]
